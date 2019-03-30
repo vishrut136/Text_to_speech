@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C15FDF1E224F4E9D002DE1FD /* Text_to_speech in Resources */ = {isa = PBXBuildFile; fileRef = C15FDF1D224F4E98002DE1FD /* Text_to_speech */; };
 		C16B3161224F2D6C00AD3F01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16B3160224F2D6C00AD3F01 /* AppDelegate.swift */; };
 		C16B3163224F2D6C00AD3F01 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16B3162224F2D6C00AD3F01 /* ViewController.swift */; };
 		C16B3166224F2D6C00AD3F01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C16B3164224F2D6C00AD3F01 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C15FDF1D224F4E98002DE1FD /* Text_to_speech */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Text_to_speech; sourceTree = "<group>"; };
 		C16B315D224F2D6B00AD3F01 /* Text_to_speech.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Text_to_speech.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C16B3160224F2D6C00AD3F01 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C16B3162224F2D6C00AD3F01 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				C16B315F224F2D6B00AD3F01 /* Text_to_speech */,
+				C15FDF1D224F4E98002DE1FD /* Text_to_speech */,
 				C16B3174224F2D6C00AD3F01 /* Text_to_speechTests */,
 				C16B317F224F2D6C00AD3F01 /* Text_to_speechUITests */,
 				C16B315E224F2D6B00AD3F01 /* Products */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C15FDF1E224F4E9D002DE1FD /* Text_to_speech in Resources */,
 				C16B316B224F2D6C00AD3F01 /* LaunchScreen.storyboard in Resources */,
 				C16B3168224F2D6C00AD3F01 /* Assets.xcassets in Resources */,
 				C16B3166224F2D6C00AD3F01 /* Main.storyboard in Resources */,
